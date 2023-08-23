@@ -132,12 +132,3 @@ long double s21_RPN_answer(char** str, double x, int* code) {
 
   return result;
 }
-
-// int main() {
-//   char* str[255] = {"-1", "888.22", "888", "+6", "-", "3", "2", "^",
-//                     "^",  "sin",    "*",   "85", "6", "-", "/", "*"};
-//   long double result = s21_RPN_answer(str);
-//   printf("%Lf", result);
-
-//   return 0;
-// }

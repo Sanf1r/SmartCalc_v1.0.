@@ -65,21 +65,3 @@ int s21_strings_for_eval(char** lexems, char** temp_out, char** RPN) {
 
   return code;
 }
-
-// int main() {
-//   char str[] = "1|+|2|+|3|+|4|*|7|*|8|^|3|^|2|";
-//   char* lexems[255] = {0};
-//   char* temp_out[255] = {0};
-//   char* RPN[255] = {0};
-
-//   // char str[] =
-//   // "-1|*|(|888.22|*|sin|(|(|888|-|+6|)|^|3|^|2|)|/|(|85|-|6|)|)|";
-//   s21_lexems(str, lexems);
-//   s21_strings_for_eval(lexems, temp_out, RPN);
-
-//   for (int i = 0; RPN[i]; i++) {
-//     printf("%s ", RPN[i]);
-//   }
-
-//   return 0;
-// }
