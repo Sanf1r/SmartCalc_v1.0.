@@ -6,11 +6,11 @@ Tested on MacOS Big Sur 11.6.6.
 
 Made on June 15 2022 as part of my education in School 21 :)
 
-https://github.com/Sanf1r/SmartCalc_v1.0./assets/100280376/b68d7b46-4787-45c9-bcba-45b1f2d4b3db
+https://github.com/Sanf1r/SmartCalc_v1.0./assets/100280376/75e81c4f-ba2a-48d7-a2d0-420b08db7ce4
 
 ## Introduction
 
-https://github.com/Sanf1r/SmartCalc_v1.0./assets/100280376/04f1ba14-271d-47b6-90e5-1fb5d7d6a8f8
+https://github.com/Sanf1r/SmartCalc_v1.0./assets/100280376/568560cb-9b1e-463e-9ad2-e184e059a39e
 
 This project will implement an extended version of the usual calculator, which can be found in the standard applications of each operating system in the C programming language using structured programming (backend) and Qt with C++ (frontend). In addition to basic arithmetic operations such as add/subtract and multiply/divide, it will supplement the calculator with the ability to calculate arithmetic expressions by following the order, as well as some mathematical functions (sine, cosine, logarithm, etc.).
 
